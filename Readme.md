@@ -1,3 +1,6 @@
+![example workflow](https://github.com/Ryuujiw/udacity-ci-cd-project/actions/workflows/pythonapp.yml/badge.svg)
+
+
 Passed ```lint``` and ```test``` steps
 
 Project cloned into azure cloud shell and ```make all``` is run.
